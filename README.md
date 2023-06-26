@@ -2,7 +2,7 @@
 
 A Flow Launcher plugin to search and copy the right Gitmoji into your clipboard
 
-![Alt text](image.png)
+![image](https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/assets/84284891/a8ce8857-8927-457b-8774-ee4b68f835a0)
 
 ## Requirements
 
