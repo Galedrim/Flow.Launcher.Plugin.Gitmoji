@@ -1,0 +1,12 @@
+{
+    "ID": "dff48291-c333-46ed-8784-115aa85acb4f",
+    "ActionKeyword": "gm",
+    "Name": "Gitmoji",
+    "Description": "Search and copy the right Gitmoji.",
+    "Author": "Flow Launcher",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
