@@ -9,7 +9,8 @@ A Flow Launcher plugin to search and copy the right Gitmoji into your clipboard
 To use Python plugins within Flow-Launcher, you'll need Python 3.8 or later installed on your system. You also may need to select your Python installation directory in the Flow Launcher settings. As of v1.8, Flow Launcher should take care of the installation of Python for you if it is not on your system.
 
 ## Installing
-The Plugin has not been officially added to the supported list of plugins. 
+The Plugin has been officially added to the supported list of plugins. 
+Run the command  ```pm install gitmoji``` to install it.
 
 You can also manually add it.
 
