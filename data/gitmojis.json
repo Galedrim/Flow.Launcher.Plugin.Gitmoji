@@ -1,0 +1,290 @@
+[
+  {
+    "emoji": "🎨",
+    "entity": "&#x1f3a8;",
+    "code": ":art:",
+    "description": "Improve structure / format of the code.",
+    "name": "art",
+    "example": "🎨 Improve code readability by refactoring the main module"
+  },
+  {
+    "emoji": "⚡️",
+    "entity": "&#x26a1;",
+    "code": ":zap:",
+    "description": "Improve performance.",
+    "name": "zap",
+    "example": "⚡️ Optimize database queries to speed up response times"
+  },
+  {
+    "emoji": "🔥",
+    "entity": "&#x1f525;",
+    "code": ":fire:",
+    "description": "Remove code or files.",
+    "name": "fire",
+    "example": "🔥 Remove deprecated API endpoints"
+  },
+  {
+    "emoji": "🐛",
+    "entity": "&#x1f41b;",
+    "code": ":bug:",
+    "description": "Fix a bug.",
+    "name": "bug",
+    "example": "🐛 Fix null pointer exception in user authentication"
+  },
+  {
+    "emoji": "🚑️",
+    "entity": "&#128657;",
+    "code": ":ambulance:",
+    "description": "Critical hotfix.",
+    "name": "ambulance",
+    "example": "🚑️ Patch security vulnerability in login system"
+  },
+  {
+    "emoji": "✨",
+    "entity": "&#x2728;",
+    "code": ":sparkles:",
+    "description": "Introduce new features.",
+    "name": "sparkles",
+    "example": "✨ Add user profile picture feature"
+  },
+  {
+    "emoji": "📝",
+    "entity": "&#x1f4dd;",
+    "code": ":memo:",
+    "description": "Add or update documentation.",
+    "name": "memo",
+    "example": "📝 Update README with new installation instructions"
+  },
+  {
+    "emoji": "🚀",
+    "entity": "&#x1f680;",
+    "code": ":rocket:",
+    "description": "Deploy stuff.",
+    "name": "rocket",
+    "example": "🚀 Deploy version 2.0 to production"
+  },
+  {
+    "emoji": "💄",
+    "entity": "&#ff99cc;",
+    "code": ":lipstick:",
+    "description": "Add or update the UI and style files.",
+    "name": "lipstick",
+    "example": "💄 Revamp the landing page design"
+  },
+  {
+    "emoji": "🎉",
+    "entity": "&#127881;",
+    "code": ":tada:",
+    "description": "Begin a project.",
+    "name": "tada",
+    "example": "🎉 Initialize new project with basic structure"
+  },
+  {
+    "emoji": "✅",
+    "entity": "&#x2705;",
+    "code": ":white_check_mark:",
+    "description": "Add, update, or pass tests.",
+    "name": "white-check-mark",
+    "example": "✅ Add unit tests for the payment module"
+  },
+  {
+    "emoji": "🔒️",
+    "entity": "&#x1f512;",
+    "code": ":lock:",
+    "description": "Fix security or privacy issues.",
+    "name": "lock",
+    "example": "🔒️ Fix XSS vulnerability in comment section"
+  },
+  {
+    "emoji": "🔐",
+    "entity": "&#x1f510;",
+    "code": ":closed_lock_with_key:",
+    "description": "Add or update secrets.",
+    "name": "closed-lock-with-key",
+    "example": "🔐 Add new API keys to environment variables"
+  },
+  {
+    "emoji": "🔖",
+    "entity": "&#x1f516;",
+    "code": ":bookmark:",
+    "description": "Release / Version tags.",
+    "name": "bookmark",
+    "example": "🔖 Bump version to 1.4.0"
+  },
+  {
+    "emoji": "🚨",
+    "entity": "&#x1f6a8;",
+    "code": ":rotating_light:",
+    "description": "Fix compiler / linter warnings.",
+    "name": "rotating-light",
+    "example": "🚨 Resolve linter warnings in stylesheet"
+  },
+  {
+    "emoji": "🚧",
+    "entity": "&#x1f6a7;",
+    "code": ":construction:",
+    "description": "Work in progress.",
+    "name": "construction",
+    "example": "🚧 Work in progress on new authentication flow"
+  },
+  {
+    "emoji": "💚",
+    "entity": "&#x1f49a;",
+    "code": ":green_heart:",
+    "description": "Fix CI Build.",
+    "name": "green-heart",
+    "example": "💚 Fix failing CI build for unit tests"
+  },
+  {
+    "emoji": "⬇️",
+    "entity": "⬇️",
+    "code": ":arrow_down:",
+    "description": "Downgrade dependencies.",
+    "name": "arrow-down",
+    "example": "⬇️ Downgrade lodash to version 4.17.21"
+  },
+  {
+    "emoji": "⬆️",
+    "entity": "⬆️",
+    "code": ":arrow_up:",
+    "description": "Upgrade dependencies.",
+    "name": "arrow-up",
+    "example": "⬆️ Upgrade React to version 18.0.0"
+  },
+  {
+    "emoji": "📌",
+    "entity": "&#x1F4CC;",
+    "code": ":pushpin:",
+    "description": "Pin dependencies to specific versions.",
+    "name": "pushpin",
+    "example": "📌 Pin axios to version 0.21.1"
+  },
+  {
+    "emoji": "👷",
+    "entity": "&#x1f477;",
+    "code": ":construction_worker:",
+    "description": "Add or update CI build system.",
+    "name": "construction-worker",
+    "example": "👷 Update CI configuration for new build system"
+  },
+  {
+    "emoji": "📈",
+    "entity": "&#x1F4C8;",
+    "code": ":chart_with_upwards_trend:",
+    "description": "Add or update analytics or track code.",
+    "name": "chart-with-upwards-trend",
+    "example": "📈 Integrate Google Analytics for tracking user interactions"
+  },
+  {
+    "emoji": "♻️",
+    "entity": "&#x267b;",
+    "code": ":recycle:",
+    "description": "Refactor code.",
+    "name": "recycle",
+    "example": "♻️ Refactor user service to use async/await"
+  },
+  {
+    "emoji": "➕",
+    "entity": "&#10133;",
+    "code": ":heavy_plus_sign:",
+    "description": "Add a dependency.",
+    "name": "heavy-plus-sign",
+    "example": "➕ Add lodash as a project dependency"
+  },
+  {
+    "emoji": "➖",
+    "entity": "&#10134;",
+    "code": ":heavy_minus_sign:",
+    "description": "Remove a dependency.",
+    "name": "heavy-minus-sign",
+    "example": "➖ Remove unused moment.js dependency"
+  },
+  {
+    "emoji": "🔧",
+    "entity": "&#x1f527;",
+    "code": ":wrench:",
+    "description": "Add or update configuration files.",
+    "name": "wrench",
+    "example": "🔧 Update Webpack configuration for production build"
+  },
+  {
+    "emoji": "🔨",
+    "entity": "&#128296;",
+    "code": ":hammer:",
+    "description": "Add or update development scripts.",
+    "name": "hammer",
+    "example": "🔨 Add script for automatic database migration"
+  },
+  {
+    "emoji": "🌐",
+    "entity": "&#127760;",
+    "code": ":globe_with_meridians:",
+    "description": "Internationalization and localization.",
+    "name": "globe-with-meridians",
+    "example": "🌐 Add Spanish translations for the user interface"
+  },
+  {
+    "emoji": "✏️",
+    "entity": "&#59161;",
+    "code": ":pencil2:",
+    "description": "Fix typos.",
+    "name": "pencil2",
+    "example": "✏️ Correct spelling errors in the documentation"
+  },
+  {
+    "emoji": "💩",
+    "entity": "&#58613;",
+    "code": ":poop:",
+    "description": "Write bad code that needs to be improved.",
+    "name": "poop",
+    "example": "💩 Add placeholder code for future feature implementation"
+  },
+  {
+    "emoji": "⏪️",
+    "entity": "&#9194;",
+    "code": ":rewind:",
+    "description": "Revert changes.",
+    "name": "rewind",
+    "example": "⏪️ Revert changes to user profile update logic"
+  },
+  {
+    "emoji": "🔍",
+    "entity": "&#128269;",
+    "code": ":mag:",
+    "description": "Improve the codebase / refactor.",
+    "name": "mag",
+    "example": "🔍 Refactor search functionality to improve performance"
+  },
+  {
+    "emoji": "📦️",
+    "entity": "&#128230;",
+    "code": ":package:",
+    "description": "Add or update compiled files or packages.",
+    "name": "package",
+    "example": "📦️ Add compiled assets for new UI components"
+  },
+  {
+    "emoji": "👽",
+    "entity": "&#x1f4d9;",
+    "code": ":page_facing_up:",
+    "description": "Add or update license.",
+    "name": "page-facing-up",
+    "example": "👽 Update license information in project files"
+  },
+  {
+    "emoji": "👽",
+    "entity": "&#x1f4c3;",
+    "code": ":page_with_curl:",
+    "description": "Add or update chore.",
+    "name": "page-with-curl",
+    "example": "👽 Add changelog for version 1.0.0"
+  },
+  {
+    "emoji": "🧪",
+    "entity": "&#129299;",
+    "code": ":test_tube:",
+    "description": "Add or update tests.",
+    "name": "test-tube",
+    "example": "🧪 Add integration tests for checkout process"
+  }
+]
