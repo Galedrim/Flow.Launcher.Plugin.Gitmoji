@@ -1,16 +1,17 @@
 # Flow.Launcher.Plugin.Gitmoji
 
-A Flow Launcher plugin to search and copy the right Gitmoji into your clipboard
-
 [![GitHub release](https://img.shields.io/github/release/Galedrim/Flow.Launcher.Plugin.Gitmoji)]()
 [![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Gitmoji)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Gitmoji/total.svg)]()
 
-![image](https://github.com/Galedrim/Flow.Launcher.Plugin.Gitmoji/assets/84284891/a8ce8857-8927-457b-8774-ee4b68f835a0)
+This Flow Launcher plugin allows you to efficiently search for and copy the appropriate Gitmoji to your clipboard. 
+Each Gitmoji comes with a detailed description and an example of its usage, making it easier to incorporate these emojis into your commit messages accurately.
+
+![image](https://github.com/user-attachments/assets/e1d937e8-87a5-45db-8816-82d67792fbbd)
 
 ## Requirements
 
-To use Python plugins within Flow-Launcher, you'll need Python 3.8 or later installed on your system. You also may need to select your Python installation directory in the Flow Launcher settings. As of v1.8, Flow Launcher should take care of the installation of Python for you if it is not on your system.
+To use Python plugins within Flow-Launcher, you'll need Python 3.11 or later installed on your system. You also may need to select your Python installation directory in the Flow Launcher settings. As of v1.8, Flow Launcher should take care of the installation of Python for you if it is not on your system.
 
 ## Installing
 The Plugin has been officially added to the supported list of plugins. 
@@ -39,12 +40,3 @@ Type ```gm``` to start searching Gitmoji.
 You can filter Gitmoji by typing the name or a word in the description.
 
 Then select the Gitmoji you want to copy to the clipboard.
-
-
-## Thanks
-
-This plugin was not possible without : 
-
-https://github.com/carloscuesta/gitmoji
-
-https://github.com/Garulf/Emoji-plus
