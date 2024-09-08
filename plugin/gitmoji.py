@@ -46,7 +46,7 @@ class GitmojiLoader(Flox, Clipboard):
         return self._results
 
     def _get_gitmoji_comparable_item(self, gitmoji:Gitmoji) -> List[str]:
-        return [gitmoji.name, gitmoji.description, gitmoji.emoji]
+        return [gitmoji.name, gitmoji.description, gitmoji.emoji, gitmoji.example]
     
     def _get_gitmoji_title(self, gitmoji:Gitmoji) -> str:
         return f"[{gitmoji.name}] {gitmoji.description}"
