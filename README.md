@@ -4,7 +4,12 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/Galedrim/Flow.Launcher.Plugin.Gitmoji)]()
 [![Github All Releases](https://img.shields.io/github/downloads/Galedrim/Flow.Launcher.Plugin.Gitmoji/total.svg)]()
 
-This Flow Launcher plugin allows you to efficiently search for and copy the appropriate Gitmoji to your clipboard. 
+> 🛈 **Note**   
+> This plugin was rewritten in C# by [tho-myr](https://github.com/tho-myr) with betters performances and functionnalities.  
+> You can find his work here : https://github.com/tho-myr/Flow.Launcher.Plugin.Gitmoji_Plus.  
+> Thanks to him to continue to maintain this plugin 😊  
+
+This Flow Launcher plugin allows you to efficiently search and copy the appropriate Gitmoji to your clipboard. 
 Each Gitmoji comes with a detailed description and an example of its usage, making it easier to incorporate these emojis into your commit messages accurately.
 
 ![image](https://github.com/user-attachments/assets/e1d937e8-87a5-45db-8816-82d67792fbbd)
